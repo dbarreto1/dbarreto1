@@ -1,4 +1,6 @@
 ### Hi there 👋
+* *For a little summary of what is Github, is an amazing software platform in witch you can collaborate or share the same proyect with others around the world. You cal also create your own repository with **markdown** to do your proyect more interesting adding some styles. If you find interesting projects you cal also save with stars, this means that you cand find it easily in every time you get into github, you can see these in **stars page*** * .
+* *Another amazing thing is that you can organized repositories putting them into lists, this can be public o private, if it is private, only people with read access could access.* *
 
 <!--
 **dbarreto1/dbarreto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
